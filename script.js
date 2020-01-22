@@ -1,5 +1,5 @@
 (function(){
-  var endpoint = "http://digitalborn.org/wp-json/wp/v2/posts",
+  var endpoint = "https://blogs.georgefox.edu/library/wp-json/wp/v2/posts/",
       itemsPerPage = 3,
       vm;
 
